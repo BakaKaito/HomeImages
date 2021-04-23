@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\homeimg"
+    "\\homeimg",
+    "\\homeimg\\Resized",
+    "\\homeimg\\Resized\\176x176"
   ],
+  "SelectedNode": "\\homeimg\\Resized\\176x176",
   "PreviewInSolutionExplorer": false
 }
